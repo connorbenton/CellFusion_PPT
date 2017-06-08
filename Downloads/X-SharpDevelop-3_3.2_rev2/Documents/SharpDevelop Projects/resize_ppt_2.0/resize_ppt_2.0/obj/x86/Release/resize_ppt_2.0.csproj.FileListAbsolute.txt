@@ -1,0 +1,6 @@
+C:\Users\cbenton\Downloads\X-SharpDevelop-3_3.2_rev2\Documents\SharpDevelop Projects\resize_ppt_2.0\resize_ppt_2.0\bin\Release\resize_ppt_2.0.exe
+C:\Users\cbenton\Downloads\X-SharpDevelop-3_3.2_rev2\Documents\SharpDevelop Projects\resize_ppt_2.0\resize_ppt_2.0\obj\x86\Release\resize_ppt_2.0.csprojResolveAssemblyReference.cache
+C:\Users\cbenton\Downloads\X-SharpDevelop-3_3.2_rev2\Documents\SharpDevelop Projects\resize_ppt_2.0\resize_ppt_2.0\obj\x86\Release\resize_ppt_2._.MainForm.resources
+C:\Users\cbenton\Downloads\X-SharpDevelop-3_3.2_rev2\Documents\SharpDevelop Projects\resize_ppt_2.0\resize_ppt_2.0\obj\x86\Release\resize_ppt_2._.SplashScreen.resources
+C:\Users\cbenton\Downloads\X-SharpDevelop-3_3.2_rev2\Documents\SharpDevelop Projects\resize_ppt_2.0\resize_ppt_2.0\obj\x86\Release\resize_ppt_2.0.csproj.GenerateResource.Cache
+C:\Users\cbenton\Downloads\X-SharpDevelop-3_3.2_rev2\Documents\SharpDevelop Projects\resize_ppt_2.0\resize_ppt_2.0\obj\x86\Release\resize_ppt_2.0.exe
