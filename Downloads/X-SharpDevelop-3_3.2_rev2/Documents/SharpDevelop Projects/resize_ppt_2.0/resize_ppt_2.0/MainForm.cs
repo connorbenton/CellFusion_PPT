@@ -31,8 +31,9 @@ namespace resize_ppt_2._
 			//
 			// The InitializeComponent() call is required for Windows Forms designer support.
 			//
-			InitializeComponent();
-			
+			InitializeComponent();			
+
+				
 //			System.Threading.Timer
 //			Thread.Sleep(500);
 			
@@ -44,6 +45,7 @@ namespace resize_ppt_2._
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//
 		}
+		
 		void TextBox1TextChanged(object sender, EventArgs e)
 		{
 	
@@ -52,32 +54,14 @@ namespace resize_ppt_2._
 		{
 			float percentofTotalSlide;
 			bool res = float.TryParse(textBox1.Text, out percentofTotalSlide);
+			string pptPresPath;
 			
 			if (res == false || (percentofTotalSlide <= 0.0F) || (percentofTotalSlide > 1.1F))
 			    {
 			    	MessageBox.Show("You appear to have an invalid value entered for scale. Please enter a value between 0 and 1.1.");
 				    return;
 			    }
-				PowerPoint.Application objApp; 
-				PowerPoint.Presentations objPresSet;
-				PowerPoint._Presentation objPres;
-				PowerPoint._Presentation objPresNew;
-				PowerPoint.Slides objSlides;
-//				PowerPoint._Slide objSlide;
-//				PowerPoint.TextRange objTextRng;
-//				PowerPoint.Shapes objShapes;
-//				PowerPoint.Shape objShape;
-//				PowerPoint.SlideShowWindows objSSWs;
-//				PowerPoint.SlideShowTransition objSST;
-//				PowerPoint.SlideShowSettings objSSS;
-//				PowerPoint.SlideRange objSldRng;
-//				PowerPoint.ShapeRange objShpRng;
-				string pptPresPath;
-				string pptPresName;
-				string pptCorrectedPresPath;
-	//			string objPresName; //don't need, is covered under string parsing
-	
-				
+			
 				//Pick presentation for resizing.
 				OpenFileDialog openFileDialog1 = new OpenFileDialog();
 				openFileDialog1.Filter = "PowerPoint Files|*.pptx;*.ppt;*.pptm";
@@ -91,6 +75,25 @@ namespace resize_ppt_2._
 			    	pptPresPath = string.Empty;
 			    	return;
 			    }
+			    
+			    PowerPoint.Application objApp; 
+				PowerPoint.Presentations objPresSet;
+				PowerPoint._Presentation objPres;
+				PowerPoint._Presentation objPresNew;
+				PowerPoint.Slides objSlides;
+//				PowerPoint._Slide objSlide;
+//				PowerPoint.TextRange objTextRng;
+//				PowerPoint.Shapes objShapes;
+//				PowerPoint.Shape objShape;
+//				PowerPoint.SlideShowWindows objSSWs;
+//				PowerPoint.SlideShowTransition objSST;
+//				PowerPoint.SlideShowSettings objSSS;
+//				PowerPoint.SlideRange objSldRng;
+//				PowerPoint.ShapeRange objShpRng;
+
+				string pptPresName;
+				string pptCorrectedPresPath;
+//				string objPresName; //don't need, is covered under string parsing
 			    
 			    pptPresName = Path.GetFileNameWithoutExtension(pptPresPath);
 			    
