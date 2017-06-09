@@ -1,0 +1,8 @@
+C:\Users\cbenton\Downloads\X-SharpDevelop-3_3.2_rev2\Documents\SharpDevelop Projects\CellFusion_PPT\CellFusion_PPT\obj\x86\Debug\CellFusion_PPT.csprojResolveAssemblyReference.cache
+C:\Users\cbenton\Downloads\X-SharpDevelop-3_3.2_rev2\Documents\SharpDevelop Projects\CellFusion_PPT\CellFusion_PPT\obj\x86\Debug\CellFusion_PPT.csproj.GenerateResource.Cache
+C:\Users\cbenton\Downloads\X-SharpDevelop-3_3.2_rev2\Documents\SharpDevelop Projects\CellFusion_PPT\CellFusion_PPT\obj\x86\Debug\CellFusion_PPT.MainForm.resources
+C:\Users\cbenton\Downloads\X-SharpDevelop-3_3.2_rev2\Documents\SharpDevelop Projects\CellFusion_PPT\CellFusion_PPT\obj\x86\Debug\CellFusion_PPT.SplashScreen.resources
+C:\Users\cbenton\Downloads\X-SharpDevelop-3_3.2_rev2\Documents\SharpDevelop Projects\CellFusion_PPT\CellFusion_PPT\bin\Debug\CellFusion_PPT.exe
+C:\Users\cbenton\Downloads\X-SharpDevelop-3_3.2_rev2\Documents\SharpDevelop Projects\CellFusion_PPT\CellFusion_PPT\bin\Debug\CellFusion_PPT.pdb
+C:\Users\cbenton\Downloads\X-SharpDevelop-3_3.2_rev2\Documents\SharpDevelop Projects\CellFusion_PPT\CellFusion_PPT\obj\x86\Debug\CellFusion_PPT.exe
+C:\Users\cbenton\Downloads\X-SharpDevelop-3_3.2_rev2\Documents\SharpDevelop Projects\CellFusion_PPT\CellFusion_PPT\obj\x86\Debug\CellFusion_PPT.pdb
